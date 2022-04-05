@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GordyD97
 - 👀 I’m interested in ... becoming a fullstack developer. 
-- 🌱 I’m currently learning ... Full stack
+- 🌱 I’m currently learning ... HTML,CSS,Javascript,Jquerry
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 Email:gorodn.Draine97@yahoo.com
