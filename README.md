@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GordyD97
-- 👀 I’m interested in ... becoming a fullstack developer. 
-- 🌱 I’m currently learning ... HTML,CSS,Javascript,Jquerry
+- 👀 I’m a novice fullstack developer. 
+- 🌱 I’m currently studying ... HTML,CSS,Javascript,Jquerry, MERN stack, frontend frameworks (tailwindcss,bootstrap, bulma etc**), 
 - 💞️ I’m looking to collaborate on ... beginner projects that will help me strengthen my skills.
 - 📫 How to reach me ...
 Email:gorodn.Draine97@yahoo.com
