@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @GordyD97
-- 👀 I’m a fullstack developer. 
-- 🌱 I’m currently studying ... HTML,CSS,Javascript,Jquerry, MERN stack, frontend frameworks (tailwindcss,bootstrap, bulma etc**), 
-- 💞️ I’m looking to collaborate on ... intermediate projects that will help me strengthen my skills.
+- 👋 Hi, I’m @GordyD97 (Gordon Draine)
+- 👀 I’m a certified fullstack developer ready for hire. 
+- 🌱 I’m currently mastering ... React, Javascript, Python, MERN stack, frontend frameworks (tailwindcss,bootstrap, bulma etc**), 
+- 💞️ I’m looking to collaborate on ... full stack projects that will help me grow my metwork.
 - 📫 How to reach me ...
 Email:gorodn.Draine97@yahoo.com
 Linkedin:https://www.linkedin.com/in/gordon-draine-iv-08a058142/
